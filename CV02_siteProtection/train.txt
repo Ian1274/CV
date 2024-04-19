@@ -1,0 +1,1 @@
+yolo detect train data=siteProtection.yaml  model=weights/yolov8n.pt  epochs=50  imgsz=640  workers=8 batch=-1 project=siteProtection  name=640_8
