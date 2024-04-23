@@ -8,5 +8,5 @@
 ### 简介
 检测工地工人是否穿戴了防护马甲以及安全帽（区分不同颜色）
 ### 效果
-![gif_cv02_01](https://github.com/Ian1274/CV/CV02_siteProtection/results/result.gif)
+![gif_cv02_01](https://github.com/Ian1274/CV/blob/main/CV02_siteProtection/results/result.gif)
 
