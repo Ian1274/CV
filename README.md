@@ -7,4 +7,9 @@
 ## 工地防护检测
 ### 简介
 检测工地工人是否穿戴了防护马甲以及安全帽（区分不同颜色）
+### 效果
+HTML
+<video width="320" height="240" controls>
+    <source src="./CV02_siteProtection/results/result.mp4" type="video/mp4">
+</video>
 
