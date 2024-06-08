@@ -10,3 +10,11 @@
 ### 效果
 ![gif_cv02_01](https://github.com/Ian1274/CV/blob/main/CV02_siteProtection/results/result.gif)
 
+# CV03_faceMask
+## 口罩人脸识别
+### 简介
+1、通过torch简单复现resnet18；
+2、数据处理：数据集进行人脸裁剪+随机添加口罩；
+模型训练：使用InceptionResnetV1进行训练，检测时将output处理成一个128维的embedding；
+测试预测：将测试图片与对比库都进行embedding后，比较测试图片与对比库的欧氏距离来判断类别；
+   
