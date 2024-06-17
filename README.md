@@ -17,4 +17,6 @@
 2、数据处理：数据集进行人脸裁剪+随机添加口罩；
 模型训练：使用InceptionResnetV1进行训练，检测时将output处理成一个128维的embedding；
 测试预测：将测试图片与对比库都进行embedding后，比较测试图片与对比库的欧氏距离来判断类别；
+### 效果
+![gif_cv03_01](https://github.com/Ian1274/CV/blob/main/CV03_faceMasks/3.demo/results/result.gif)
    
